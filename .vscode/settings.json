@@ -1,0 +1,5 @@
+{
+    "terminal.integrated.defaultProfile.windows": "Command Prompt",
+    "terminal.integrated.shellArgs.windows": ["/c", "chcp 866"],
+    "java.jdt.ls.vmargs": "-Dfile.encoding=CP866"
+}
